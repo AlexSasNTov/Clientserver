@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FlaskWebProjectDmitry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE620EE6-DD84-4C29-8E4A-7F516F59F294}|FlaskWebProjectDmitry\\FlaskWebProjectDmitry.pyproj|D:\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\runserver.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AE620EE6-DD84-4C29-8E4A-7F516F59F294}|FlaskWebProjectDmitry\\FlaskWebProjectDmitry.pyproj|solutionrelative:FlaskWebProjectDmitry\\runserver.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE620EE6-DD84-4C29-8E4A-7F516F59F294}|FlaskWebProjectDmitry\\FlaskWebProjectDmitry.pyproj|D:\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\templates\\calc.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE620EE6-DD84-4C29-8E4A-7F516F59F294}|FlaskWebProjectDmitry\\FlaskWebProjectDmitry.pyproj|solutionrelative:FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\templates\\calc.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE620EE6-DD84-4C29-8E4A-7F516F59F294}|FlaskWebProjectDmitry\\FlaskWebProjectDmitry.pyproj|D:\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AE620EE6-DD84-4C29-8E4A-7F516F59F294}|FlaskWebProjectDmitry\\FlaskWebProjectDmitry.pyproj|solutionrelative:FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calc.html",
+              "DocumentMoniker": "D:\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\templates\\calc.html",
+              "RelativeDocumentMoniker": "FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\templates\\calc.html",
+              "ToolTip": "D:\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\templates\\calc.html",
+              "RelativeToolTip": "FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\templates\\calc.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-19T12:12:24.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "runserver.py",
+              "DocumentMoniker": "D:\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\runserver.py",
+              "RelativeDocumentMoniker": "FlaskWebProjectDmitry\\runserver.py",
+              "ToolTip": "D:\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\runserver.py",
+              "RelativeToolTip": "FlaskWebProjectDmitry\\runserver.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-19T10:49:45.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "views.py",
+              "DocumentMoniker": "D:\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\views.py",
+              "RelativeDocumentMoniker": "FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\views.py",
+              "ToolTip": "D:\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\views.py",
+              "RelativeToolTip": "FlaskWebProjectDmitry\\FlaskWebProjectDmitry\\views.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-19T10:45:33.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

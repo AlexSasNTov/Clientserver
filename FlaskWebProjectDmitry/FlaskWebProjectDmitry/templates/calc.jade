@@ -1,0 +1,30 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', type='text/css', href='/static/content/bootstrap.min.css')
+  body
+    .container(style="max-width: 400px; margin-top: 50px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;")
+      h2(style="text-align: center; margin-bottom: 20px;") Калькулятор
+      
+      form(method="post")
+        .form-group(style="margin-bottom: 15px;")
+          label(for="num1") Первое число:
+          input.form-control(type="text", name="num1", id="num1", value=num1, required)
+          
+        .form-group(style="margin-bottom: 15px;")
+          label(for="num2") Второе число:
+          input.form-control(type="text", name="num2", id="num2", value=num2, required)
+          
+        button.btn.btn-primary(type="submit", style="width: 100%;") Вычислить сумму
+        
+      if result is not none
+        .alert.alert-success(style="margin-top: 20px; font-size: 18px; text-align: center;")
+          strong Результат: #{result}
+
+      // Блок истории вычислений
+      if history
+        h4(style="margin-top: 30px; border-bottom: 1px solid #eee; padding-bottom: 5px;") История вычислений:
+        ul.list-group(style="margin-top: 10px; max-height: 200px; overflow-y: auto;")
+          each row in history
+            li.list-group-item #{row[0]} + #{row[1]} = #{row[2]}
